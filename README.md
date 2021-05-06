@@ -1,0 +1,4 @@
+# StructedPerceptron
+实现了结构化感知机并且使用BMES标注集合进行分词
+其中没有使用正则进行泛化，和平均技术进行泛化。
+最终在MSR语料库上的performance中F1可以达到95.8%
